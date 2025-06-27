@@ -6,7 +6,7 @@ Tema terang untuk Visual Studio Code yang terinspirasi oleh tampilan Notepad++.
 
 1. Clone repositori ini
 2. Jalankan `vsce package` untuk membungkus
-3. Install dengan `code --install-extension nama-file.vsix`
+3. Install dengan `code --install-extension superday-light-theme-1.0.0.vsix`
 
 ## Lisensi
 
