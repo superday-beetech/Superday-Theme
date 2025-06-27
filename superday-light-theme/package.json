@@ -1,0 +1,24 @@
+{
+  "name": "superday-light-theme",
+  "displayName": "Superday Light Theme",
+  "description": "Tema VSCode by Superday",
+  "version": "1.0.0",
+  "publisher": "BeeTech",
+  "engines": {
+    "vscode": "^1.101.2"
+  },
+  "categories": ["Themes"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superday-beetech/superday-light-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Superday Light",
+        "uiTheme": "vs",
+        "path": "./themes/superday-light-color-theme.json"
+      }
+    ]
+  }
+}
